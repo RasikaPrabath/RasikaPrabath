@@ -67,15 +67,27 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
+```
+┌─────────────────────────────────────┐
+│  DISCIPLINE & PROFICIENCY           │
+├─────────────────────────────────────┤
+│  UI / UX Architecture               │
+│  ████████████████████████████ 95%   │
+│                                     │
+│  Frontend Engineering               │
+│  ██████████████████████████── 90%   │
+│                                     │
+│  Brand & Visual Identity            │
+│  ██████████████████████████── 90%   │
+│                                     │
+│  Full-Stack Integration             │
+│  ████████████████████████──── 80%   │
+├─────────────────────────────────────┤
+│  ■ Style: Modern & Minimalist       │
+└─────────────────────────────────────┘
+```
 
-
-<br/>
-<br>
-<br>
-<br>
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=transparent&hide_border=true&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&sideLabels=6b6b6b&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff)
+Focused on transforming complex requirements into **intuitive experiences** — combining robust architecture with clean, modern aesthetics.
 
 </td>
 </tr>
