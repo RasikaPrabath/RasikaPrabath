@@ -174,12 +174,34 @@ Focused on transforming complex requirements into **intuitive experiences** — 
 ---
 
 <!-- ════════════════════════════════════════════════
+     SECTION 05 · ENGINEERING VELOCITY & ACTIVITY
+════════════════════════════════════════════════ -->
+
+<br/>
+
+**`— 05 —`** &nbsp; **Engineering Velocity & Activity**
+
+<br/>
+
+> Real-time commit trajectory and daily contribution momentum.
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&title_color=ffffff" alt="Rasika Prabath's Contribution Activity Graph" width="95%" />
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════
      SECTION 06 · PHILOSOPHY
 ════════════════════════════════════════════════ -->
 
 <br/>
 
-**`— 05 —`** &nbsp; **Philosophy**
+**`— 06 —`** &nbsp; **Philosophy**
 
 <br/>
 
