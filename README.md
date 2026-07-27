@@ -65,16 +65,25 @@ I live at the intersection of **visual craft** and **technical precision** — d
 </td>
 <td valign="top" width="45%" align="center">
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/RasikaPrabath">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&hide_title=false&title_color=A0856C" alt="Activity Graph" width="100%" />
 </a>
+
+<br/>
+
+> **Crafting fluid interfaces & scalable systems.**  
+> Transforming complex problems into production-ready web platforms with aesthetic precision.
+
+<br/>
+
+`UI / UX Engineering` &bull; `Design Systems` &bull; `Full Stack`
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=Views&color=A0856C&style=flat-square)&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=Stars&style=flat-square&color=111111&logo=github&logoColor=A0856C)
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)
 
 </td>
 </tr>
