@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495px" height="195px">
+  <style>
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; font-weight: 600; fill: #A0856C; }
+    .stat { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 32px; font-weight: 700; fill: #ffffff; }
+    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; font-weight: 400; fill: #A0856C; }
+    .sublabel { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; font-weight: 400; fill: #888888; }
+    .curr-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 16px; font-weight: 700; fill: #A0856C; }
+  </style>
+  
+  <rect x="1" y="1" rx="8" ry="8" width="493" height="193" fill="#0a0a0a" stroke="#A0856C" stroke-width="1.5"/>
+  
+  <!-- Left Column: Total Contributions -->
+  <text x="82.5" y="88" text-anchor="middle" class="stat">1,133</text>
+  <text x="82.5" y="130" text-anchor="middle" class="label">Total Contributions</text>
+  <text x="82.5" y="158" text-anchor="middle" class="sublabel">Mar 13 – Present</text>
+
+  <!-- Divider 1 -->
+  <line x1="165" y1="45" x2="165" y2="150" stroke="#332a22" stroke-width="1"/>
+  
+  <!-- Center Column: Current Streak & Flame Ring -->
+  <g transform="translate(247.5, 75)">
+    <circle cx="0" cy="8" r="42" fill="none" stroke="#A0856C" stroke-width="4.5" stroke-linecap="round"/>
+    <rect x="-14" y="-38" width="28" height="22" fill="#0a0a0a"/>
+    <path d="M 0 -38 C -7 -32 -10 -26 -10 -20 C -10 -12 -5 -7 0 -7 C 5 -7 10 -12 10 -20 C 10 -26 7 -32 0 -38 Z M 0 -11 C -2 -11 -5 -14 -5 -18 C -5 -22 -3 -25 0 -29 C 3 -25 5 -22 5 -18 C 5 -14 3 -11 0 -11 Z" fill="#A0856C"/>
+    <text x="0" y="18" text-anchor="middle" class="stat">15</text>
+  </g>
+  <text x="247.5" y="148" text-anchor="middle" class="curr-label">Current Streak</text>
+  <text x="247.5" y="170" text-anchor="middle" class="sublabel">Active Commit Run</text>
+
+  <!-- Divider 2 -->
+  <line x1="330" y1="45" x2="330" y2="150" stroke="#332a22" stroke-width="1"/>
+  
+  <!-- Right Column: Longest Streak -->
+  <text x="412.5" y="88" text-anchor="middle" class="stat">23</text>
+  <text x="412.5" y="130" text-anchor="middle" class="label">Longest Streak</text>
+  <text x="412.5" y="158" text-anchor="middle" class="sublabel">Peak Record</text>
+</svg>
