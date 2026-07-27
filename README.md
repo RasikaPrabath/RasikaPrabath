@@ -75,7 +75,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 <br>
 
 
-![Streak](https://streak-stats.demolab.com?user=RasikaPrabath&theme=transparent&hide_border=true&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&sideLabels=6b6b6b&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=transparent&hide_border=true&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&sideLabels=6b6b6b&dates=6b6b6b&currStreakNum=ffffff&sideNums=ffffff)
 
 </td>
 </tr>
