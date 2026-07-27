@@ -63,19 +63,13 @@
 I live at the intersection of **visual craft** and **technical precision** — designing systems that are beautiful from the first pixel to the last API call.
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="45%" align="center">
 
-<br/>
+<br/><br/>
 
-### **Minimalist & Functional**
-
-> Bringing simplicity to complex user flows through intuitive UX and clean frontend architecture.
-
-<br/>
-
-* **Stack :** React · Tailwind · Java · UI/UX
-* **Focus :** Crafting intentional design systems
-* **Status:** Open for Freelance & Collabs
+<a href="https://github.com/RasikaPrabath">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
+</a>
 
 <br/><br/>
 
@@ -167,34 +161,12 @@ I live at the intersection of **visual craft** and **technical precision** — d
 ---
 
 <!-- ════════════════════════════════════════════════
-     SECTION 05 · ENGINEERING VELOCITY & ACTIVITY
+     SECTION 05 · PHILOSOPHY
 ════════════════════════════════════════════════ -->
 
 <br/>
 
-**`— 05 —`** &nbsp; **Engineering Velocity & Activity**
-
-<br/>
-
-> Real-time commit trajectory and daily contribution momentum.
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&title_color=ffffff" alt="Rasika Prabath's Contribution Activity Graph" width="95%" />
-</div>
-
-<br/>
-
----
-
-<!-- ════════════════════════════════════════════════
-     SECTION 06 · PHILOSOPHY
-════════════════════════════════════════════════ -->
-
-<br/>
-
-**`— 06 —`** &nbsp; **Philosophy**
+**`— 05 —`** &nbsp; **Philosophy**
 
 <br/>
 
