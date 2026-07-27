@@ -68,23 +68,27 @@ I live at the intersection of **visual craft** and **technical precision** — d
 <br/>
 
 ```
-╔═════════════════════════════════════╗
-║   CONTRIBUTION & ACTIVITY METRICS   ║
-╠═════════════════════════════════════╣
-║  Total Contributions : 1,133+       ║
-║  Current Commit Rate : Active Daily ║
-║  Longest Commit Run  : 23 Days      ║
-║  Active Repositories : 16 Repos     ║
-╠═════════════════════════════════════╣
-║  [■][■][■][■][■][■][■][■][□][□]     ║
-║  High Momentum & Steady Frequency   ║
-╚═════════════════════════════════════╝
+       ───  ◈  DIGITAL ART & CRAFT  ◈  ───
+
+                    ◇ ◆ ◇
+                  ◇ ◆ ◇ ◆ ◇
+                ◇ ◆ ◇ ◆ ◇ ◆ ◇
+              ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇
+             ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
+              ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇
+                ◇ ◆ ◇ ◆ ◇ ◆ ◇
+                  ◇ ◆ ◇ ◆ ◇
+                    ◇ ◆ ◇
+          ─────────────────────────────
+
+     「 DESIGN IS INTELLIGENCE MADE VISIBLE 」
+         UI/UX CRAFT · CODE · ARCHITECTURE
 ```
 
 <br/>
 
-> **"Consistent commits build scalable architectures."**  
-> Actively shipping production-ready code & design systems.
+> *“Art challenges technology, and technology inspires the art.”*  
+> **— John Lasseter**
 
 <br/><br/>
 
