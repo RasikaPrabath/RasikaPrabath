@@ -69,7 +69,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <!-- ── CUSTOM BROWNISH THEME STREAK STATS ──────── -->
 <a href="https://github.com/RasikaPrabath">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasikaPrabath&background=0a0a0a&border=A0856C&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&currStreakNum=ffffff&sideLabels=A0856C&sideNums=ffffff&dates=888888" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
+  <img src="./assets/streak-card.svg" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
 </a>
 
 <br/><br/>
