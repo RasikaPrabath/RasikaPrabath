@@ -65,22 +65,21 @@ I live at the intersection of **visual craft** and **technical precision** — d
 </td>
 <td valign="top" width="45%" align="center">
 
-<br/>
+<br/><br/>
 
-<!-- ── LIVE GITHUB ACTIVITY & COMMUNITY DASHBOARD ── -->
+<!-- ── CUSTOM BROWNISH THEME STREAK STATS ──────── -->
 <a href="https://github.com/RasikaPrabath">
-  <img src="https://metrics.lecoq.io/RasikaPrabath?template=classic&base=activity%2C%20community%2C%20repositories&config.timezone=Asia%2FColombo" alt="Rasika Prabath's GitHub Metrics" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasikaPrabath&background=0a0a0a&border=A0856C&ring=A0856C&fire=A0856C&currStreakLabel=A0856C&currStreakNum=ffffff&sideLabels=A0856C&sideNums=ffffff&dates=888888" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
 </a>
 
 <br/><br/>
 
-> **UI / UX Architecture & Full-Stack Development**  
-> Dedicated to crafting pixel-perfect, highly responsive web platforms with modern design systems.
+> **UI / UX Architecture & Full-Stack Engineering**  
+> Consistently pushing robust code & intentional design systems with aesthetic precision.
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;&nbsp;![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)
 
 </td>
 </tr>
