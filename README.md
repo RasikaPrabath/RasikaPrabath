@@ -67,25 +67,19 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-```
-┌─────────────────────────────────────┐
-│  DISCIPLINE & PROFICIENCY           │
-├─────────────────────────────────────┤
-│  UI / UX Architecture               │
-│  ████████████████████████████ 95%   │
-│                                     │
-│  Frontend Engineering               │
-│  ██████████████████████████── 90%   │
-│                                     │
-│  Brand & Visual Identity            │
-│  ██████████████████████████── 90%   │
-│                                     │
-│  Full-Stack Integration             │
-│  ████████████████████████──── 80%   │
-├─────────────────────────────────────┤
-│  ■ Style: Modern & Minimalist       │
-└─────────────────────────────────────┘
-```
+<!-- ── LIVE GITHUB METRICS DASHBOARD ───────────── -->
+<a href="https://github.com/RasikaPrabath">
+  <img src="https://metrics.lecoq.io/RasikaPrabath?template=classic&base=activity%2C%20community%2C%20repositories&config.timezone=Asia%2FColombo" alt="Rasika Prabath's GitHub Metrics" width="100%" />
+</a>
+
+<br/><br/>
+
+<!-- ── PROFILE VIEWS & REPO STATS ──────────────── -->
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=PROFILE+VIEWS&color=A0856C&style=for-the-badge)&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/RasikaPrabath?label=FOLLOWERS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)
+
+<br/>
 
 Focused on transforming complex requirements into **intuitive experiences** — combining robust architecture with clean, modern aesthetics.
 
