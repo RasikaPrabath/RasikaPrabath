@@ -67,28 +67,15 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-```
-       ───  ◈  DIGITAL ART & CRAFT  ◈  ───
+<!-- ── LIVE GITHUB ACTIVITY & COMMUNITY DASHBOARD ── -->
+<a href="https://github.com/RasikaPrabath">
+  <img src="https://metrics.lecoq.io/RasikaPrabath?template=classic&base=activity%2C%20community%2C%20repositories&config.timezone=Asia%2FColombo" alt="Rasika Prabath's GitHub Metrics" width="100%" />
+</a>
 
-                    ◇ ◆ ◇
-                  ◇ ◆ ◇ ◆ ◇
-                ◇ ◆ ◇ ◆ ◇ ◆ ◇
-              ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇
-             ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
-              ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇
-                ◇ ◆ ◇ ◆ ◇ ◆ ◇
-                  ◇ ◆ ◇ ◆ ◇
-                    ◇ ◆ ◇
-          ─────────────────────────────
+<br/><br/>
 
-     「 DESIGN IS INTELLIGENCE MADE VISIBLE 」
-         UI/UX CRAFT · CODE · ARCHITECTURE
-```
-
-<br/>
-
-> *“Art challenges technology, and technology inspires the art.”*  
-> **— John Lasseter**
+> **UI / UX Architecture & Full-Stack Development**  
+> Dedicated to crafting pixel-perfect, highly responsive web platforms with modern design systems.
 
 <br/><br/>
 
