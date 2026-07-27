@@ -67,18 +67,24 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-<a href="https://github.com/RasikaPrabath">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=00000000&color=A0856C&line=A0856C&point=ffffff&area=true&hide_border=true&hide_title=false&title_color=A0856C" alt="Activity Graph" width="100%" />
-</a>
+```
+╔═════════════════════════════════════╗
+║   CONTRIBUTION & ACTIVITY METRICS   ║
+╠═════════════════════════════════════╣
+║  Total Contributions : 1,133+       ║
+║  Current Commit Rate : Active Daily ║
+║  Longest Commit Run  : 23 Days      ║
+║  Active Repositories : 16 Repos     ║
+╠═════════════════════════════════════╣
+║  [■][■][■][■][■][■][■][■][□][□]     ║
+║  High Momentum & Steady Frequency   ║
+╚═════════════════════════════════════╝
+```
 
 <br/>
 
-> **Crafting fluid interfaces & scalable systems.**  
-> Transforming complex problems into production-ready web platforms with aesthetic precision.
-
-<br/>
-
-`UI / UX Engineering` &bull; `Design Systems` &bull; `Full Stack`
+> **"Consistent commits build scalable architectures."**  
+> Actively shipping production-ready code & design systems.
 
 <br/><br/>
 
