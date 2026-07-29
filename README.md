@@ -18,11 +18,7 @@
 
 
 <!-- ── SOCIAL BADGES ───────────────────────────── -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C)](https://linkedin.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C)](https://github.com/RasikaPrabath)&nbsp;
-[![Behance](https://img.shields.io/badge/Behance-0a0a0a?style=flat-square&logo=behance&logoColor=A0856C)](https://behance.net)&nbsp;
-[![Dribbble](https://img.shields.io/badge/Dribbble-0a0a0a?style=flat-square&logo=dribbble&logoColor=A0856C)](https://dribbble.com)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C)](https://linkedin.com)&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C)](https://github.com/RasikaPrabath)&nbsp; [![Behance](https://img.shields.io/badge/Behance-0a0a0a?style=flat-square&logo=behance&logoColor=A0856C)](https://behance.net)&nbsp; [![Dribbble](https://img.shields.io/badge/Dribbble-0a0a0a?style=flat-square&logo=dribbble&logoColor=A0856C)](https://dribbble.com)&nbsp; [![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C)](mailto:your.email@example.com)
 
 <br/>
 
