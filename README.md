@@ -181,6 +181,26 @@ A product is not what it does. →   it's how it makes you feel.
 
 ---
 
+<!-- ════════════════════════════════════════════════
+     SECTION 06 · ACTIVITY
+════════════════════════════════════════════════ -->
+
+<br/>
+
+**`— 06 —`** &nbsp; **Activity Graph**
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/RasikaPrabath">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=111111&color=A0856C&line=A0856C&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" alt="Rasika Prabath's GitHub Activity Graph" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 <br/>
 
 <div align="center">
