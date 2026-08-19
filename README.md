@@ -35,13 +35,14 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <br>
 
-### 📌 Featured Projects
+### 🧰 Frontend & Backend Tools
 
 <div align="left">
 
-<a href="https://github.com/RasikaPrabath/design-system" title="Design Systems Playground" style="font-size:28px;margin-right:18px;">🎨</a>
-<a href="https://github.com/RasikaPrabath/micro-interactions" title="Micro-Interactions Library" style="font-size:28px;margin-right:18px;">✨</a>
-<a href="https://github.com/RasikaPrabath/se-tools" title="SE Productivity Suite" style="font-size:28px;">🛠️</a>
+- 🎨 Frontend: React, Next.js, Tailwind CSS, Storybook, Framer Motion — UI composition, design systems, and motion.
+- ⚙️ Backend: Node.js, Express, NestJS, PostgreSQL, Prisma, MongoDB — APIs, ORMs, and databases.
+- 🧪 Testing & CI: Jest, Playwright, Cypress, ESLint, Prettier, GitHub Actions — quality and automation.
+- 🛠 Dev Productivity: Docker, Docker Compose, pnpm, VS Code, Husky — reproducible dev environments and tooling.
 
 </div>
 
