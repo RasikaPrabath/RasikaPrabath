@@ -48,15 +48,6 @@ Short one-line description of what it does and what problem it solves.
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RasikaPrabath&show_icons=true&theme=dark&hide_border=true&bg_color=14161C&title_color=3ECF8E&icon_color=3ECF8E" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RasikaPrabath&theme=dark&hide_border=true&background=14161C&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E" alt="GitHub Streak" height="160"/>
-
-</div>
-
 <br>
 
 ### 🌐 Connect With Me
