@@ -5,18 +5,40 @@
 
 <br>
 
-### 👋 Hi, I'm Rasika
+###  Hi, I'm Rasika Prabath
+
+ **BSc (Hons) in Information Technology**
+ **UI/UX Focused Full Stack Software Developer**
+
+```js
+const designer = {
+  name     : "Rasika Prabath",
+  origin   : "Sri Lanka",
+  study    : "SLIIT . IT",
+
+  thinks   : "design-first",
+  builds   : "pixel-perfect",
+  ships    : "production-ready",
+
+  open_for : [
+    "Freelance Work",
+    "Collaborations",
+    "Creative Projects"
+  ]
+};
+```
 
 Full Stack Developer who enjoys turning ideas into clean, working products. I build things for the web — from backend APIs to the pixels you click on.
 
-- 🔭 Currently working on side projects and leveling up my stack
-- 🌱 Always learning something new in web development
-- 💬 Ask me about JavaScript, backend systems, or anything full stack
-- 📫 Reach me at: **rasikaprabath8694@gmail.com**
+- Currently working on side projects and leveling up my stack
+- Always learning something new in web development
+- Passionate about clean UI/UX and building products people love to use
+- Ask me about JavaScript, backend systems, or anything full stack
+- Reach me at: **rasikaprabath8694@gmail.com**
 
 <br>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="left">
 
@@ -36,7 +58,7 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <br>
 
-### 🎨 Frontend
+###  Frontend & UI/UX
 
 <div align="left">
 
@@ -48,13 +70,14 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 </div>
 
 <br>
 
-### ⚙️ Backend
+###  Backend
 
 <div align="left">
 
@@ -72,7 +95,7 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <br>
 
-### 🧰 Software Engineering & DevOps Tools
+###  Software Engineering & DevOps Tools
 
 <div align="left">
 
@@ -93,7 +116,7 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <br>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="left">
 
@@ -104,13 +127,13 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <br>
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3ECF8E?style=flat-square&logo=googlechrome&logoColor=black)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rasikaprabath8694@gmail.com)
 
 </div>
