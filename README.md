@@ -39,10 +39,27 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 <div align="left">
 
-- 🎨 Frontend: React, Next.js, Tailwind CSS, Storybook, Framer Motion — UI composition, design systems, and motion.
-- ⚙️ Backend: Node.js, Express, NestJS, PostgreSQL, Prisma, MongoDB — APIs, ORMs, and databases.
-- 🧪 Testing & CI: Jest, Playwright, Cypress, ESLint, Prettier, GitHub Actions — quality and automation.
-- 🛠 Dev Productivity: Docker, Docker Compose, pnpm, VS Code, Husky — reproducible dev environments and tooling.
+<span title="React" style="font-size:28px;margin-right:12px;">⚛️</span>
+<span title="Next.js" style="font-size:28px;margin-right:12px;">⬆️</span>
+<span title="Tailwind CSS" style="font-size:28px;margin-right:12px;">💨</span>
+<span title="Storybook" style="font-size:28px;margin-right:12px;">📚</span>
+<span title="Framer Motion" style="font-size:28px;margin-right:12px;">🎞️</span>
+
+<span title="Node.js" style="font-size:28px;margin-right:12px;">🟢</span>
+<span title="Express" style="font-size:28px;margin-right:12px;">🚂</span>
+<span title="NestJS" style="font-size:28px;margin-right:12px;">🏠</span>
+<span title="PostgreSQL" style="font-size:28px;margin-right:12px;">🐘</span>
+<span title="Prisma" style="font-size:28px;margin-right:12px;">🔷</span>
+<span title="MongoDB" style="font-size:28px;margin-right:12px;">🍃</span>
+
+<span title="Jest" style="font-size:28px;margin-right:12px;">🧪</span>
+<span title="Playwright" style="font-size:28px;margin-right:12px;">🎭</span>
+<span title="Cypress" style="font-size:28px;margin-right:12px;">🌲</span>
+
+<span title="Docker" style="font-size:28px;margin-right:12px;">🐳</span>
+<span title="pnpm" style="font-size:28px;margin-right:12px;">📦</span>
+<span title="VS Code" style="font-size:28px;margin-right:12px;">🧑‍💻</span>
+<span title="Husky" style="font-size:28px;margin-right:12px;">🐶</span>
 
 </div>
 
