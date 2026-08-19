@@ -1,9 +1,9 @@
 <img src="name-banner.svg" width="100%"/>
 <div align="center">
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Focused+Engineer;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
-<br>
+</div>
 
 ###  Hi, I'm Rasika Prabath
 
@@ -30,11 +30,11 @@ const designer = {
 
 Full Stack Developer who enjoys turning ideas into clean, working products. I build things for the web — from backend APIs to the pixels you click on.
 
-- Currently working on side projects and leveling up my stack
-- Always learning something new in web development
-- Passionate about clean UI/UX and building products people love to use
-- Ask me about JavaScript, backend systems, or anything full stack
-- Reach me at: **rasikaprabath8694@gmail.com**
+-  Currently working on side projects and leveling up my stack
+-  Always learning something new in web development
+-  Passionate about clean UI/UX and building products people love to use
+-  Ask me about JavaScript, backend systems, or anything full stack
+-  Reach me at: **rasikaprabath8694@gmail.com**
 
 <br>
 
