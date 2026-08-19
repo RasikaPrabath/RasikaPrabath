@@ -200,11 +200,7 @@ A product is not what it does.     →  it's how it makes you feel.
      SECTION 06 · ACTIVITY
 ════════════════════════════════════════════════ -->
 
-<br/>
 
-## **`— 06 —`  Activity Graph**
-
-<br/>
 
 <div align="center">
 
