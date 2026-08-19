@@ -1,4 +1,4 @@
-<img src="name-banner.jpeg" width="100%"/>
+<img src="name-banner.svg" width="100%"/>
 <div align="center">
 
 </div>
