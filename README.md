@@ -13,12 +13,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=64&pause=99999&color=FFFFFF&center=true&vCenter=true&width=760&height=100&lines=Rasika+Prabath" alt="Rasika Prabath" />
 
 <!-- ── ANIMATED ROLES ──────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+interfaces+that+feel+inevitable.;Frontend+Developer+%E2%80%94+where+design+meets+architecture.;Graphic+Designer+%E2%80%94+visual+identity+%26+brand+systems.;Full+Stack+%E2%80%94+MERN+%C2%B7+Spring+Boot+%C2%B7+Laravel+%C2%B7+Java." alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+intentional+interfaces" alt="Roles" />
 
 
 
 <!-- ── SOCIAL BADGES ───────────────────────────── -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C" alt="LinkedIn"/></a> <a href="https://github.com/RasikaPrabath"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C" alt="GitHub"/></a> <a href="https://behance.net"><img src="https://img.shields.io/badge/Behance-0a0a0a?style=flat-square&logo=behance&logoColor=A0856C" alt="Behance"/></a> <a href="https://dribbble.com"><img src="https://img.shields.io/badge/Dribbble-0a0a0a?style=flat-square&logo=dribbble&logoColor=A0856C" alt="Dribbble"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C" alt="Email"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C" alt="LinkedIn"/></a> <a href="https://github.com/RasikaPrabath"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C" alt="GitHub"/></a> <a href="mailto:contact@rasika.dev"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C" alt="Email"/></a>
 
 <br/>
 
@@ -65,7 +65,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <!-- ── CUSTOM BROWNISH THEME STREAK STATS ──────── -->
 <a href="https://github.com/RasikaPrabath">
-  <img src="./assets/streak-card.svg" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=dark&background=111111&ring=A0856C&fire=A0856C&currStreakNum=FFFFFF" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
 </a>
 
 <br/><br/>
@@ -75,7 +75,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;&nbsp;![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&style=for-the-badge&color=111111&logo=github&logoColor=A0856C)
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;&nbsp;![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=Stars&color=A0856C&style=for-the-badge)
 
 </td>
 </tr>
@@ -193,7 +193,7 @@ A product is not what it does. →   it's how it makes you feel.
 
 <div align="center">
   <a href="https://github.com/RasikaPrabath">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=111111&color=A0856C&line=A0856C&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" alt="Rasika Prabath's GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=111111&color=A0856C&line=A0856C&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" alt="Rasika Prabath's GitHub Activity Graph" />
   </a>
 </div>
 
@@ -208,7 +208,5 @@ A product is not what it does. →   it's how it makes you feel.
 *— Full Stack · Design Systems · Open for Work —*
 
 <br/>
-
-
 
 </div>
