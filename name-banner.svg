@@ -17,8 +17,7 @@
 </style>
 </defs>
 
-<rect x="0" y="0" width="1140" height="330" rx="14" fill="#0D0F14" stroke="#2A2E36" stroke-width="1"/>
-<rect x="24" y="24" width="1092" height="282" rx="10" fill="#1B1D23"/>
+<rect x="0" y="0" width="1140" height="330" fill="#1B1D23"/>
 
 <text x="70" y="150" class="name" transform="rotate(-6 70 150)">Rasika Prabath</text>
 <text x="130" y="215" class="role" transform="rotate(-4 130 215)">Full Stack Developer</text>
