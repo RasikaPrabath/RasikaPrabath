@@ -13,16 +13,26 @@
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=64&pause=99999&color=FFFFFF&center=true&vCenter=true&width=760&height=100&lines=Rasika+Prabath" alt="Rasika Prabath" />
 
 <!-- ── ANIMATED ROLES ──────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+intentional+interfaces" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=28&lines=UI+%2F+UX+Engineer+%E2%80%94+crafting+intentional+interfaces;Full+Stack+Developer+%E2%80%94+building+elegant+solutions" alt="Roles" />
 
-
+<br/>
 
 <!-- ── SOCIAL BADGES ───────────────────────────── -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C" alt="LinkedIn"/></a> <a href="https://github.com/RasikaPrabath"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C" alt="GitHub"/></a> <a href="mailto:contact@rasika.dev"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C" alt="Email"/></a>
+<a href="https://linkedin.com/in/rasika-prabath" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=A0856C" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/RasikaPrabath" title="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=A0856C" alt="GitHub"/>
+</a>
+<a href="mailto:rasikaprabath@gmail.com" title="Email">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=A0856C" alt="Email"/>
+</a>
 
 <br/>
 
 </div>
+
+---
 
 <!-- ════════════════════════════════════════════════
      SECTION 01 · IDENTITY
@@ -36,46 +46,57 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────┐
-│  const designer = {                 │
-│    name     : "Rasika Prabath",     │
-│    origin   : "Sri Lanka 🇱🇰",      │
-│    study    : "SLIIT · IT",         │
-│                                     │
-│    thinks   : "design-first",       │
-│    builds   : "pixel-perfect",      │
-│    ships    : "production-ready",   │
-│                                     │
-│    open_for : [                     │
-│      "Freelance Work",              │
-│      "Collaborations",              │
-│      "Creative Projects"            │
-│    ]                                │
-│  };                                 │
-└─────────────────────────────────────┘
+```javascript
+const designer = {
+  name     : "Rasika Prabath",
+  origin   : "Sri Lanka 🇱🇰",
+  study    : "SLIIT · Information Technology",
+  
+  focuses  : [
+    "UI/UX Design",
+    "Frontend Engineering",
+    "Design Systems"
+  ],
+  
+  thinking : "design-first",
+  approach : "pixel-perfect",
+  delivery : "production-ready",
+  
+  open_for : [
+    "Freelance Work",
+    "Collaborations",
+    "Creative Projects"
+  ]
+};
 ```
 
 I live at the intersection of **visual craft** and **technical precision** — designing systems that are beautiful from the first pixel to the last API call.
+
+<br/>
 
 </td>
 <td valign="top" width="45%" align="center">
 
 <br/><br/>
 
-<!-- ── CUSTOM BROWNISH THEME STREAK STATS ──────── -->
+<!-- ── GITHUB STREAK STATS ──────── -->
 <a href="https://github.com/RasikaPrabath">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=dark&background=111111&ring=A0856C&fire=A0856C&currStreakNum=FFFFFF" alt="Rasika Prabath's GitHub Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=dark&background=111111&ring=A0856C&fire=A0856C&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Rasika Prabath's GitHub Streak" width="100%" />
 </a>
 
 <br/><br/>
 
-> **UI / UX Architecture & Full-Stack Engineering**  
-> Consistently pushing robust code & intentional design systems with aesthetic precision.
+> **UI/UX Architecture & Full-Stack Engineering**
+> 
+> Consistently shipping robust code & intentional design systems with aesthetic precision.
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)&nbsp;&nbsp;![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=Stars&color=A0856C&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=VIEWS&color=A0856C&style=for-the-badge)
+&nbsp;&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=Stars&color=A0856C&style=for-the-badge)
+
+<br/>
 
 </td>
 </tr>
@@ -89,20 +110,18 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-**`— 02 —`** &nbsp; **Design & Visual**
-
-<br/>
+## **`— 02 —`  Design & Visual**
 
 > The tools behind the aesthetics.
 
 <br/>
 
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=A0856C)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-111111?style=for-the-badge&logo=adobexd&logoColor=A0856C)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-111111?style=for-the-badge&logo=adobexd&logoColor=A0856C)
 ![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=A0856C)
 ![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=A0856C)
 ![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=A0856C)
-![After Effects](https://img.shields.io/badge/After_Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=A0856C)
+![After Effects](https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=A0856C)
 
 <br/>
 
@@ -114,9 +133,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-**`— 03 —`** &nbsp; **Frontend Engineering**
-
-<br/>
+## **`— 03 —`  Frontend Engineering**
 
 > Where design becomes code.
 
@@ -125,7 +142,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A0856C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A0856C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=A0856C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=A0856C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=A0856C)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=A0856C)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=A0856C)
 
@@ -139,9 +156,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-**`— 04 —`** &nbsp; **Backend & Data**
-
-<br/>
+## **`— 04 —`  Backend & Data**
 
 > The foundation beneath the interface.
 
@@ -149,7 +164,7 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=A0856C)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=A0856C)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=A0856C)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge&logo=springboot&logoColor=A0856C)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A0856C)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=A0856C)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A0856C)
@@ -167,14 +182,14 @@ I live at the intersection of **visual craft** and **technical precision** — d
 
 <br/>
 
-**`— 05 —`** &nbsp; **Philosophy**
+## **`— 05 —`  Philosophy**
 
 <br/>
 
 ```
-Design is not how it looks.    →   it's how it works.
-Code is not how it runs.       →   it's how it reads.
-A product is not what it does. →   it's how it makes you feel.
+Design is not how it looks.        →  it's how it works.
+Code is not how it runs.           →  it's how it reads.
+A product is not what it does.     →  it's how it makes you feel.
 ```
 
 <br/>
@@ -187,7 +202,7 @@ A product is not what it does. →   it's how it makes you feel.
 
 <br/>
 
-**`— 06 —`** &nbsp; **Activity Graph**
+## **`— 06 —`  Activity Graph**
 
 <br/>
 
@@ -205,8 +220,10 @@ A product is not what it does. →   it's how it makes you feel.
 
 <div align="center">
 
-*— Full Stack · Design Systems · Open for Work —*
+### *— Full Stack · Design Systems · Open for Work —*
 
 <br/>
+
+**Let's create something extraordinary together.**
 
 </div>
