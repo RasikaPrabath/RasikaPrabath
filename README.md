@@ -37,14 +37,13 @@ Full Stack Developer who enjoys turning ideas into clean, working products. I bu
 
 ### 📌 Featured Projects
 
-**[Design Systems Playground](https://github.com/RasikaPrabath/design-system)**  
-A modular UI/UX engineering project: reusable design tokens, accessible components, and a Storybook-driven workflow (Figma library, React + Tailwind, Chromatic visual tests).
+<div align="left">
 
-**[Micro-Interactions Library](https://github.com/RasikaPrabath/micro-interactions)**  
-A collection of performant micro-interactions and motion patterns for UI polish — built with Framer Motion and Lottie for consistent, testable animations.
+<a href="https://github.com/RasikaPrabath/design-system" title="Design Systems Playground" style="font-size:28px;margin-right:18px;">🎨</a>
+<a href="https://github.com/RasikaPrabath/micro-interactions" title="Micro-Interactions Library" style="font-size:28px;margin-right:18px;">✨</a>
+<a href="https://github.com/RasikaPrabath/se-tools" title="SE Productivity Suite" style="font-size:28px;">🛠️</a>
 
-**[SE Productivity Suite](https://github.com/RasikaPrabath/se-tools)**  
-Tooling for software engineering productivity: local dev environment helpers, CI templates, linters/formatters, and VS Code extensions to standardize developer workflows.
+</div>
 
 <br>
 
