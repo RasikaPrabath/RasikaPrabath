@@ -1,39 +1,46 @@
 <!--
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   RASIKA PRABATH · Premium GitHub Profile README
-  UI/UX Engineer × Full Stack Developer
+  Graphic Design × UI/UX × Frontend Engineering
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=180&section=header&text=RASIKA%20PRABATH&fontSize=48&fontColor=A0856C&fontAlignY=45&desc=UI/UX%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=65&descSize=16&descColor=FFFFFF" width="100%"/>
+
 <br/>
 
-<!-- ── NAME MARK ────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=64&pause=99999&color=E8DCC4&center=true&vCenter=true&width=760&height=100&lines=Rasika+Prabath" alt="Rasika Prabath" />
-
 <!-- ── ANIMATED ROLES ──────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1500&color=B8A892&center=true&vCenter=true&width=760&height=32&lines=UI+%2F+UX+Engineer+%E2%80%94+Crafting+Intentional+Interfaces;Full+Stack+Developer+%E2%80%94+Building+Elegant+Solutions;Design+Systems+Architect+%E2%80%94+Scalable+%26+Beautiful" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&pause=1500&color=A0856C&center=true&vCenter=true&width=760&height=30&lines=Crafting+intentional+interfaces;Designing+with+precision%2C+building+with+purpose;Where+pixels+meet+production+code" alt="Roles" />
 
 <br/>
 
 <!-- ── SOCIAL BADGES ───────────────────────────── -->
 <a href="https://linkedin.com/in/rasika-prabath" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D4AF9A" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=A0856C" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/RasikaPrabath" title="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF9A" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=A0856C" alt="GitHub"/>
 </a>
 <a href="mailto:rasikaprabath@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D4AF9A" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=A0856C" alt="Email"/>
 </a>
-<a href="https://twitter.com/rasika_prabath" title="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=D4AF9A" alt="Twitter"/>
+<a href="#" title="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=A0856C" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=PROFILE%20VIEWS&color=0a0a0a&style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RasikaPrabath?label=STARS&color=0a0a0a&style=for-the-badge&labelColor=0a0a0a)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/RasikaPrabath?label=FOLLOWERS&color=0a0a0a&style=for-the-badge&labelColor=0a0a0a)
+
 </div>
+
+<br/>
 
 ---
 
@@ -51,56 +58,50 @@
 
 ```javascript
 const designer = {
-  name       : "Rasika Prabath",
-  origin     : "Sri Lanka 🇱🇰",
-  education  : "SLIIT · Information Technology",
-  
-  specializes: [
+  name     : "Rasika Prabath",
+  origin   : "Sri Lanka 🇱🇰",
+  study    : "SLIIT · Information Technology",
+
+  focuses  : [
     "UI/UX Design",
     "Frontend Engineering",
-    "Design Systems",
-    "Full Stack Development"
+    "Design Systems"
   ],
-  
-  approach   : "design-first",
-  philosophy : "pixel-perfect & production-ready",
-  mindset    : "user-centric",
-  
-  open_for   : [
-    "Freelance Projects",
+
+  thinking : "design-first",
+  approach : "pixel-perfect",
+  delivery : "production-ready",
+
+  currently: "leveling up in React & design systems",
+
+  open_for : [
+    "Freelance Work",
     "Collaborations",
-    "Creative Partnerships"
+    "Creative Projects"
   ]
 };
 ```
 
-<br/>
-
-I work at the intersection of **visual design** and **technical engineering** — creating design systems that are beautiful, functional, and scalable from concept to production.
-
-My focus: **intentional interfaces**, **robust code**, and **seamless user experiences**.
+I live at the intersection of **visual craft** and **technical precision** — designing systems that are beautiful from the first pixel to the last API call.
 
 <br/>
 
 </td>
 <td valign="top" width="45%" align="center">
 
-<br/><br/>
+<br/>
 
-<!-- ── GITHUB STATS ──────── -->
+<!-- ── GITHUB STATS CARD ────────── -->
 <a href="https://github.com/RasikaPrabath">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=dark&background=0f0f0f&ring=D4AF9A&fire=D4AF9A&currStreakNum=E8DCC4&sideNums=B8A892&border=2c2c2c" alt="Rasika Prabath's GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasikaPrabath&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=A0856C&icon_color=A0856C&text_color=FFFFFF&border_color=222222&hide_border=false" alt="Rasika's GitHub Stats" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
-> **UI/UX Architecture & Full-Stack Engineering**
-> 
-> Consistently shipping clean code & intentional design systems with aesthetic precision.
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RasikaPrabath&label=PROFILE+VIEWS&color=D4AF9A&style=flat-square)
+<!-- ── STREAK STATS ──────────────── -->
+<a href="https://github.com/RasikaPrabath">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RasikaPrabath&theme=dark&background=0a0a0a&ring=A0856C&fire=A0856C&currStreakNum=FFFFFF&sideNums=FFFFFF&border=222222" alt="Rasika's GitHub Streak" width="100%" />
+</a>
 
 <br/>
 
@@ -116,18 +117,22 @@ My focus: **intentional interfaces**, **robust code**, and **seamless user exper
 
 <br/>
 
-## **`— Design & Visual —`**
+## **`— 02 —`  Design & Visual**
 
-> The tools behind the visual craft.
+> The tools behind the aesthetics.
 
 <br/>
 
-![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=for-the-badge&logo=figma&logoColor=D4AF9A)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-0f0f0f?style=for-the-badge&logo=adobexd&logoColor=D4AF9A)
-![Photoshop](https://img.shields.io/badge/Photoshop-0f0f0f?style=for-the-badge&logo=adobephotoshop&logoColor=D4AF9A)
-![Illustrator](https://img.shields.io/badge/Illustrator-0f0f0f?style=for-the-badge&logo=adobeillustrator&logoColor=D4AF9A)
-![Canva](https://img.shields.io/badge/Canva-0f0f0f?style=for-the-badge&logo=canva&logoColor=D4AF9A)
-![After Effects](https://img.shields.io/badge/After%20Effects-0f0f0f?style=for-the-badge&logo=adobeaftereffects&logoColor=D4AF9A)
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=A0856C)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-111111?style=for-the-badge&logo=adobexd&logoColor=A0856C)
+![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=A0856C)
+![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=A0856C)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=A0856C)
+![After Effects](https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects&logoColor=A0856C)
+
+</div>
 
 <br/>
 
@@ -139,20 +144,22 @@ My focus: **intentional interfaces**, **robust code**, and **seamless user exper
 
 <br/>
 
-## **`— Frontend Engineering —`**
+## **`— 03 —`  Frontend Engineering**
 
-> Where design translates into seamless code.
+> Where design becomes code.
 
 <br/>
 
-![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=D4AF9A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=D4AF9A)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=D4AF9A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0f0f0f?style=for-the-badge&logo=tailwindcss&logoColor=D4AF9A)
-![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=for-the-badge&logo=nextdotjs&logoColor=D4AF9A)
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=D4AF9A)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=D4AF9A)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0f0f0f?style=for-the-badge&logo=framer&logoColor=D4AF9A)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=A0856C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=A0856C)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=A0856C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=A0856C)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=A0856C)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=A0856C)
+
+</div>
 
 <br/>
 
@@ -164,90 +171,84 @@ My focus: **intentional interfaces**, **robust code**, and **seamless user exper
 
 <br/>
 
-## **`— Backend & Database —`**
+## **`— 04 —`  Backend & Data**
 
-> The reliable foundation powering every interface.
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=nodedotjs&logoColor=D4AF9A)
-![Express](https://img.shields.io/badge/Express-0f0f0f?style=for-the-badge&logo=express&logoColor=D4AF9A)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f0f0f?style=for-the-badge&logo=springboot&logoColor=D4AF9A)
-![Laravel](https://img.shields.io/badge/Laravel-0f0f0f?style=for-the-badge&logo=laravel&logoColor=D4AF9A)
-![Java](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=D4AF9A)
-![PHP](https://img.shields.io/badge/PHP-0f0f0f?style=for-the-badge&logo=php&logoColor=D4AF9A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f0f0f?style=for-the-badge&logo=mongodb&logoColor=D4AF9A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=D4AF9A)
-![MySQL](https://img.shields.io/badge/MySQL-0f0f0f?style=for-the-badge&logo=mysql&logoColor=D4AF9A)
-![Firebase](https://img.shields.io/badge/Firebase-0f0f0f?style=for-the-badge&logo=firebase&logoColor=D4AF9A)
+> The foundation beneath the interface.
 
 <br/>
 
----
+<div align="center">
 
-<!-- ════════════════════════════════════════════════
-     SECTION 05 · TOOLS & INFRASTRUCTURE
-════════════════════════════════════════════════ -->
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=A0856C)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=A0856C)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge&logo=springboot&logoColor=A0856C)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=A0856C)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=A0856C)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=A0856C)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=A0856C)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=A0856C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=A0856C)
 
-<br/>
-
-## **`— Development Tools —`**
-
-> Workflow optimization & modern development practices.
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=D4AF9A)
-![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=D4AF9A)
-![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=D4AF9A)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0f0f?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF9A)
-![REST API](https://img.shields.io/badge/REST%20API-0f0f0f?style=for-the-badge&logo=swagger&logoColor=D4AF9A)
-![GraphQL](https://img.shields.io/badge/GraphQL-0f0f0f?style=for-the-badge&logo=graphql&logoColor=D4AF9A)
+</div>
 
 <br/>
 
 ---
 
 <!-- ════════════════════════════════════════════════
-     SECTION 06 · PHILOSOPHY & APPROACH
+     SECTION 05 · FEATURED WORK
 ════════════════════════════════════════════════ -->
 
 <br/>
 
-## **`— Design Philosophy —`**
+## **`— 05 —`  Featured Work**
+
+> A few projects worth a second look.
 
 <br/>
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-**Design-First Mindset**
+### 🎨 Project One
+Short one-line description of what it does and the problem it solves.
 
-```
-Beautiful interfaces
-rooted in user research
-```
+`React` `Tailwind` `Node.js`
 
-</td>
-<td align="center" width="33%">
-
-**Production-Ready Code**
-
-```
-Clean, documented
-scalable solutions
-```
+[**View Repository →**](https://github.com/RasikaPrabath)
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-**User-Centric Focus**
+### ⚙️ Project Two
+Short one-line description of what it does and the problem it solves.
 
-```
-Every pixel intentional
-every interaction meaningful
-```
+`TypeScript` `Spring Boot` `MySQL`
+
+[**View Repository →**](https://github.com/RasikaPrabath)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Project Three
+Short one-line description of what it does and the problem it solves.
+
+`React` `Laravel` `MongoDB`
+
+[**View Repository →**](https://github.com/RasikaPrabath)
+
+</td>
+<td width="50%">
+
+### 🧩 Project Four
+Short one-line description of what it does and the problem it solves.
+
+`Figma` `Design System` `UI Kit`
+
+[**View Repository →**](https://github.com/RasikaPrabath)
 
 </td>
 </tr>
@@ -255,42 +256,80 @@ every interaction meaningful
 
 <br/>
 
+> *Replace the placeholder titles, descriptions, tags, and links above with your real projects.*
+
 ---
 
 <!-- ════════════════════════════════════════════════
-     SECTION 07 · CALL TO ACTION
+     SECTION 06 · GITHUB TROPHIES
 ════════════════════════════════════════════════ -->
+
+<br/>
+
+## **`— 06 —`  Achievements**
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RasikaPrabath&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title=Repositories,Stars,Followers,Commits" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════
+     SECTION 07 · CONTRIBUTION ACTIVITY
+════════════════════════════════════════════════ -->
+
+<br/>
+
+## **`— 07 —`  Contribution Activity**
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasikaPrabath&bg_color=0a0a0a&color=A0856C&line=A0856C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════
+     SECTION 08 · PHILOSOPHY
+════════════════════════════════════════════════ -->
+
+<br/>
+
+## **`— 08 —`  Philosophy**
+
+<br/>
+
+```
+Design is not how it looks.        →  it's how it works.
+Code is not how it runs.           →  it's how it reads.
+A product is not what it does.     →  it's how it makes you feel.
+```
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
 
-## Let's Create Something Extraordinary
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+### *— Full Stack · Design Systems · Open for Work —*
 
 <br/>
 
-I'm available for:
-- **Freelance UI/UX Projects**
-- **Full Stack Development**
-- **Design System Architecture**
-- **Creative Collaborations**
+**Let's create something extraordinary together.**
 
 <br/>
 
-**→ [Get in Touch](mailto:rasikaprabath@gmail.com) | [View Portfolio](#) | [Connect on LinkedIn](#)**
-
-<br/>
-
----
-
-<br/>
-
-<sub>
-  
-  **Last Updated:** August 2026 | Crafted with precision & care
-  
-</sub>
+`rasikaprabath@gmail.com`
 
 </div>
-
-<br/>
