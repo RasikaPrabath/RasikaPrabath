@@ -1,4 +1,6 @@
-<img src="name-banner.svg" width="100%"/>
+<a href="https://www.rasikaprabath.me/" target="_blank">
+  <img src="./name-banner.svg" alt="Rasika Prabath Portfolio" />
+</a>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Focused+Engineer;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
